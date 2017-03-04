@@ -1,2 +1,2 @@
 # InterpreterCpp
-an interpreter  very noob i think
+an interpreter written in C++
